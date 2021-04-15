@@ -5,3 +5,5 @@
 - 📫 How to reach me : 20b030018@iitb.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Too many to mention explicitly :)
+
+<spacing align="right" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="500" height="320" /></p>
