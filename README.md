@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Too many to mention explicitly :)
 
-<spacing align="right" alt="gif" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="500" height="320" /></p>
+<a href="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"><img src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"></a>
