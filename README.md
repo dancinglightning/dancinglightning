@@ -1,3 +1,5 @@
+### Hey everyone, I'm Hanan Basheer, aka Dancing Lightning
+
 - 🔭 I’m currently working on a SOC Project regarding Stock Market Prediction
 - 🌱 I’m currently learning Artificial Neural Networks
 - 🤔 I’m looking for help with Web development & Competitive Programming
