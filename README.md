@@ -1,3 +1,6 @@
+
+# Hi there 👋
+
 ### Aka as Hanan
 
 - 🔭 I’m currently working on a SOC Project regarding Stock Market Prediction
@@ -8,4 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Too many to mention explicitly :)
 
-<a href="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"><img src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"></a>
+<a href="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"></a><br>
+
+
