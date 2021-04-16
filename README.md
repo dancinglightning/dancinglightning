@@ -1,5 +1,5 @@
 
-# Hi there 👋
+# Hey 👋 !!! Hanan here 😄
 
 - 🔭 I’m currently working on a SOC Project regarding Stock Market Prediction
 - 🌱 I’m currently learning Artificial Neural Networks
