@@ -11,7 +11,7 @@
 
 
 <p align="left">
-  <img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="25%">
+  <img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight" width="50%">
+  <img alt="Dark" src="https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight" width="45%">
 </p>
