@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Too many to mention explicitly :)
 
-<a href="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"><img src ="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"></a><br>
+<a href="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"><img src ="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif"></a><br />
 
-
+![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight)
