@@ -10,8 +10,8 @@
 - ⚡ Fun fact : Too many to mention explicitly :)
 
 
-Yoru | GIT Status
---- | ---
-![](https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif) | ![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanubhai2001&layout=compact)
+<p align="left">
+  <img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight" width="60%">
+</p>
