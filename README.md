@@ -11,9 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Too many to mention explicitly :)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight" width=70%"></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanubhai2001&label=Profile%20views&color=0e75b6&style=flat" alt="hanubhai2001" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=hanubhai2001&show_icons=true&theme=tokyonight" width=60%"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanubhai2001&" alt="hanubhai2001" /></p>
 
