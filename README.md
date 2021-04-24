@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hanan Basheer</h1>
-<h3 align="center">A Competitive Programmer</h3>
+<h3 align="center">Competitive Programmer</h3>
 <p align="center"><img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="27%"></p>
 
 - 🔭 I’m currently working on a SOC Project regarding Stock Market Prediction    
