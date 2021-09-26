@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Hanan Basheer</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Competitive Programmer</h3>
 <p align="center"><img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="27%"></p>
 
-I am Hanan, an undergraduate student from Indian Institute of Technology, Bombay.
+I am Hanan Basheer, an undergraduate student from Indian Institute of Technology, Bombay.
 - 🔭 I’m currently working on a SOC Project regarding Stock Market Prediction    
 - 🌱 I’m currently learning Artificial Neural Networks
 - 🤔 I’m looking for help with Web development & Competitive Programming
