@@ -4,11 +4,11 @@
 <p align="center"><img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="27%"></p>
 
 I am Hanan Basheer, an Aerospace undergraduate from Indian Institute of Technology, Bombay.
-- 🔭 I’m currently working on a SOC Project regarding Stock Market Prediction    
+- 🔭 I’m currently working on Project Omnimorph
 - 🌱 I’m currently learning Artificial Neural Networks
-- 🤔 I’m looking for help with Web development & Competitive Programming
-- 💬 Ask me about C++,Python,ANN
-- 📫 How to reach me : 20b030018@iitb.ac.in
+- 🤔 I’m looking for help with Web development & Generative AI
+- 💬 Ask me about Python
+- 📫 How to reach me : hanan.basheer.iitb@gmail.com
 - 📫 Google Developer ID : g.dev/dancinglightning
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Too many to mention explicitly :)
